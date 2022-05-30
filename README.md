@@ -13,3 +13,7 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+# DutchAuction
+Contract Address 0xf3f28ec4D5b8A3DA1C59A70B719e3Be7D5a4a6E5
+# Deploy and Verify on Test Goerli Etherscan
+https://goerli.etherscan.io/address/0xf3f28ec4D5b8A3DA1C59A70B719e3Be7D5a4a6E5
